@@ -7,7 +7,7 @@ Lines changed: 68 additions & 1 deletion
 Original file line number	Diff line number	Diff line change
 @@ -1 +1,68 @@
 # demo
-# Aliza gurung 
+# Aliza gurung IMG_20250509_183558.jpg
 ## 👨‍💼 Profile Summary
 - 2 years of academic experience in data analysis, focusing on data cleaning, wrangling, and transformation using Python (Pandas, NumPy) and SQL.
 - Developed interactive dashboards and visualizations using Tableau and Power BI to communicate insights and support business decision-making.
