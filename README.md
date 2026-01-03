@@ -53,7 +53,7 @@ Relevant Coursework: Machine Learning, Big Data Analytics, Statistical Modeling
 ## let's connect 
 - Instagram -https://www.instagram.com/aliza_gurung22?igsh=MWgybzFybHhxanJqMQ==
 - Facebook -https://www.facebook.com/share/17xUiwehnz/
--portfolio website -
+-portfolio - https://github.com/nembangsaurav136-a11y/Alizagurung01
 
 
 
