@@ -1,6 +1,5 @@
 ## my profile 
 
-IMG_20250509_183558.jpg
 
 
 - Mero name gu ho ma gu jasto xu name chai aliza ho
@@ -29,6 +28,7 @@ IMG_20250509_183558.jpg
 - Cleaned and analyzed data with Pandas, then visualized insights through Tableau dashboards.
 - Dashboards were used by 200+ students; 37 secured jobs by tailoring their applications using the insights.
 ---
+![LinkedIn Dashboard](/images/theme.1.png)
 ## 🎓 Education
 **University Name, Location**  
 Bachelor in Economics and Statistics | *June 2016 – Jan 2020*  
