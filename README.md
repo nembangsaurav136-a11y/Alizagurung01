@@ -28,7 +28,8 @@
 - Cleaned and analyzed data with Pandas, then visualized insights through Tableau dashboards.
 - Dashboards were used by 200+ students; 37 secured jobs by tailoring their applications using the insights.
 ---
-![LinkedIn Dashboard](/images/theme.1.png)
+## (/theme.1/theme.1.png)
+
 ## 🎓 Education
 **University Name, Location**  
 Bachelor in Economics and Statistics | *June 2016 – Jan 2020*  
