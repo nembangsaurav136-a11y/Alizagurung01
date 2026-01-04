@@ -8,8 +8,11 @@ Original file line number	Diff line number	Diff line change
 # demo
 # Aliza gurung 
 ## 👨‍💼 Profile Summary
+my-website/
+│── index.html
+│── images/
+│    └── banner.png   ← (this photo)
 
-git commit -m "IMG_20250509_183558.jpg"
 
 - Mero name gu ho ma gu jasto xu name chai aliza ho
 - Developed interactive dashboards and visualizations using Tableau and Power BI to communicate insights and support business decision-making.
