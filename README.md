@@ -1,17 +1,7 @@
 
--1
-Lines changed: 68 additions & 1 deletion
-
-
-Original file line number	Diff line number	Diff line change
-@@ -1 +1,68 @@
-# demo
-# Aliza gurung 
-## 👨‍💼 Profile Summary
-my-website/
-│── index.html
-│── images/
-│    └── banner.png   ← (this photo)
+<p align="center"> 
+    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
+</p>
 
 
 - Mero name gu ho ma gu jasto xu name chai aliza ho
