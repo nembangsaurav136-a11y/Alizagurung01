@@ -1,7 +1,4 @@
 
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
 
 
 - Mero name gu ho ma gu jasto xu name chai aliza ho
