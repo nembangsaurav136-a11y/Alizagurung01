@@ -29,8 +29,7 @@
 - Dashboards were used by 200+ students; 37 secured jobs by tailoring their applications using the insights.
 
 <img src="D:\html/image.png">
-![LinkedIn Dashboard](/image1.png)
----
+
 
 
 ## 🎓 Education
