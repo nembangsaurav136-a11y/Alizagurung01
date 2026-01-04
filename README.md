@@ -8,6 +8,9 @@ Original file line number	Diff line number	Diff line change
 # demo
 # Aliza gurung 
 ## 👨‍💼 Profile Summary
+
+<img src="images/masterPortfolioThemes.png"></img>
+
 - Mero name gu ho ma gu jasto xu name chai aliza ho
 - Developed interactive dashboards and visualizations using Tableau and Power BI to communicate insights and support business decision-making.
 - Experience with statistical modeling, time series analysis, and cloud-based analytics using BigQuery and GCP.
