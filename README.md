@@ -28,7 +28,7 @@
 - Cleaned and analyzed data with Pandas, then visualized insights through Tableau dashboards.
 - Dashboards were used by 200+ students; 37 secured jobs by tailoring their applications using the insights.
 
-![LinkedIn Dashboard](/images/image1.png)
+![LinkedIn Dashboard](/image1.png)
 ---
 
 
