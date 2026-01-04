@@ -9,7 +9,7 @@ Original file line number	Diff line number	Diff line change
 # Aliza gurung 
 ## 👨‍💼 Profile Summary
 
-<img src="images/masterPortfolioThemes.png"></img>
+<img src=https://github.com/nembangsaurav136-a11y/Alizagurung01/blob/main/IMG_20250509_183558.jpg "></img>
 
 - Mero name gu ho ma gu jasto xu name chai aliza ho
 - Developed interactive dashboards and visualizations using Tableau and Power BI to communicate insights and support business decision-making.
