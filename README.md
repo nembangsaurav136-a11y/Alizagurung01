@@ -55,6 +55,18 @@ Relevant Coursework: Machine Learning, Big Data Analytics, Statistical Modeling
 -portfolio - https://github.com/nembangsaurav136-a11y/Alizagurung01
 
 
+## 📈 Featured Project
+
+### 🔍 LinkedIn Job Trends Analyzer  
+*Time Period*
+
+- Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
+- Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
+- Project impacted 200+ students, with 37 successfully landing jobs using insights
+
+![LinkedIn Dashboard](/images/image1.png)
+
+
 
 
 *Thank you for visiting my portfolio! Feel free to connect or reach out for collaboration or opportunities
