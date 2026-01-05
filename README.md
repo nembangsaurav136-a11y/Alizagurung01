@@ -20,7 +20,7 @@ Experienced in **marketing, educational consulting, brand development, and custo
 **BPP University, London, UK**  
 *2025 – Present*  
 
-![bpp logo](/Images/bpp.png)
+![bpp logo](/Images/bpp.png)    ![ecohm logo](/Images/ecohm.png)   ![shisu logo](/Images/shisu.png)
 
 - Studying applied business management to gain in-depth understanding of business operations and strategy.
 
