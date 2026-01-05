@@ -1,4 +1,4 @@
-# Anjali Gurung (अञ्जली) ![my profile](/Images/aliza1.jpeg)
+# Anjali Gurung (अञ्जली) ![profile](/Images/aliza1.jpeg)
 
 **Marketing Head Officer | Market Developer & Consultant**  
 📍 Forest Gate, London  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👤 Profile
+## 👤
 
 A proactive and result-driven professional currently pursuing a **BSc in Business Management at BPP University**.  
 Experienced in **marketing, educational consulting, brand development, and customer service**, with strong communication and leadership skills. Passionate about fostering client relationships, driving organizational growth, and contributing value in dynamic professional environments.
