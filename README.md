@@ -28,7 +28,6 @@ Experienced in **marketing, educational consulting, brand development, and custo
 **Ascent Academy (EECOHM), Birtamode, Jhapa**  
 *2022 – 2024*  
 
-![ecohm logo](/Images/ecohm.png)
 
 - Focused on **Business Studies, Account, and Economics**
 - Built strong foundations in market dynamics and financial principles.
