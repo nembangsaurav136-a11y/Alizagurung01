@@ -64,7 +64,7 @@ Relevant Coursework: Machine Learning, Big Data Analytics, Statistical Modeling
 - Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
 
-![LinkedIn Dashboard](/images/image1.png)
+![LinkedIn Dashboard](/image.png)
 
 
 
