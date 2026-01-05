@@ -1,4 +1,4 @@
-# Anjali Gurung (अञ्जली) ![my profile](/Images/aliza.jpea)
+# Anjali Gurung (अञ्जली) ![my profile](/Images/aliza1.jpeg)
 
 **Marketing Head Officer | Market Developer & Consultant**  
 📍 Forest Gate, London  
