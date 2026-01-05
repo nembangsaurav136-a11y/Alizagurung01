@@ -66,6 +66,7 @@ Relevant Coursework: Machine Learning, Big Data Analytics, Statistical Modeling
 
 ![LinkedIn Dashboard](/image.png)
 
+(masterportfolio-banner-light.png.)
 
 
 
