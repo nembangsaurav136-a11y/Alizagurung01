@@ -16,10 +16,12 @@ Experienced in **marketing, educational consulting, brand development, and custo
 
 ## 🎓 Education & Qualifications
 
-![bpp logo](/Images/bpp.png)
 ### **Bachelor in Business Management (BSc)**  
 **BPP University, London, UK**  
 *2025 – Present*  
+
+![bpp logo](/Images/bpp.png)
+
 - Studying applied business management to gain in-depth understanding of business operations and strategy.
 
 ### **Higher Secondary School (HSC)**  
