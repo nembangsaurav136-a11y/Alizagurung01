@@ -20,7 +20,7 @@ Experienced in **marketing, educational consulting, brand development, and custo
 **BPP University, London, UK**  
 *2025 – Present*  
 
-![bpp](/Images/condo.png)  
+![bpp](/Images/condo.png)     ![ecohm](/Images/condo.png)
 
 - Studying applied business management to gain in-depth understanding of business operations and strategy.
 
