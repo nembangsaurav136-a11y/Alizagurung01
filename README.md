@@ -15,27 +15,30 @@ Experienced in **marketing, educational consulting, brand development, and custo
 ---
 
 ## 🎓 Education & Qualifications
+![bpp](/Images/1001.png)
+
+
 
 ### **Bachelor in Business Management (BSc)**  
 **BPP University, London, UK**  
 *2025 – Present*  
+              - Studying applied business management to gain in-depth understanding of business operations and strategy.
 
-![bpp](/Images/1001.png)         
 
-- Studying applied business management to gain in-depth understanding of business operations and strategy.
+
 
 ### **Higher Secondary School (HSC)**  
+
 **Ascent Academy (EECOHM), Birtamode, Jhapa**  
 *2022 – 2024*  
+            - Focused on **Business Studies, Account, and Economics**
+            - Built strong foundations in market dynamics and financial principles.
 
-
-- Focused on **Business Studies, Account, and Economics**
-- Built strong foundations in market dynamics and financial principles.
 
 ### **School Leaving Certificate (SLC)**  
 **Swastika Shishu Sadan, Birtamode, Jhapa**  
 *2021 – 2022*  
-- Studied **Business and Economics** as main subjects.
+              - Studied **Business and Economics** as main subjects.
 
 ---
 
