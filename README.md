@@ -2,7 +2,7 @@
 
 **Marketing Head Officer | Market Developer & Consultant**  
 📍 Forest Gate, London  
-📧 saipudeo1814@gmail.com  
+📧 Anjaligurung814@gmail.com  
 📞 +44 7867 577369  
 
 ---
