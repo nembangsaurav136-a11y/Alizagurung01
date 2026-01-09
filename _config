@@ -1,3 +1,36 @@
 title: Your Name
 logo: /images/hs.jpg
 theme: jekyll-theme-minimal
+{
+  "profile": {
+    "name": "Aliza Gurung",
+    "role": "Student",
+    "aboutTitle": "</About Me>",
+    "aboutDescription": "I am a student focused on learning, self-growth, and building a strong professional identity. Passionate about developing academic and practical skills for future higher education and career opportunities.",
+    "image": "/assets/profile.jpg"
+  },
+
+  "contact": {
+    "email": "your-email@example.com",
+    "buttonText": "Email Me"
+  },
+
+  "links": {
+    "resume": "#",
+    "portfolio": "#"
+  },
+
+  "socials": {
+    "facebook": "https://www.facebook.com/share/186hzVUWrc/",
+    "instagram": "",
+    "twitter": "",
+    "linkedin": ""
+  },
+
+  "ui": {
+    "theme": "light",
+    "accentColor": "black",
+    "font": "sans-serif",
+    "layout": "minimal"
+  }
+}
