@@ -1,8 +1,49 @@
+
+# Aliza Gurung
+
+👩‍🎓 **Student**
+
+---
+
+## </About Me>
+
+Hello! I’m **Aliza Gurung**, a student focused on learning, self-growth, and building a strong professional identity. I am passionate about developing academic and practical skills that will help me succeed in future higher education and career opportunities.
+
+This portfolio is a simple introduction to who I am and a space to showcase my resume, work, and online presence.
+
+---
+
+## 📄 Resume
+- **Resume:** _(Add your resume link here)_
+
+---
+
+## 💼 Portfolio
+- **Portfolio:** _(Add your portfolio link here)_
+
+---
+
+## 📬 Contact Me
+- **Email:** _(your-email@example.com)_
+
+---
+
+## 🌐 Social Links
+Connect with me online:
+
+- **Facebook:** https://www.facebook.com/share/186hzVUWrc/
+- **Instagram:** _(add link)_
+- **Twitter:** _(add link)_
+- **LinkedIn:** _(add link)_
+
+---
+
+> © 2026 Aliza Gurung  
+> Designed with simplicity and clarity.
 huh# Anjali Gurung (अञ्जली) ![profile](/Images/aliza1.jpeg)
 
 **Marketing Head Officer | Market Developer & Consultant**  
-📍 Forest Gate, London  
-📧 Anjaligurung814@gmail.com  
+ 
 📞 +44 7867 577369  
 
 ---
